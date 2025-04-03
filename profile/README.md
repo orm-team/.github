@@ -1,12 +1,27 @@
-## Hi there 👋
+# 오름 - 등산 종합 플랫폼
 
-<!--
+**오름**은 전국의 산 정보를 제공하고, 사용자들이 자신의 등산 기록을 남길 수 있도록 돕는 **등산 종합 플랫폼**입니다. 이 프로젝트는 등산을 사랑하는 사람들을 위해 설계되었으며, 직관적인 UI와 다양한 기능으로 **최적의 등산 경험**을 선사합니다.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 주요 기능
+
+- **3,368개의 산 정보 제공**  
+  전국 산 정보를 한눈에 확인하고, 지역 및 고도에 따라 원하는 산을 쉽게 찾을 수 있습니다.
+
+- **맞춤형 등산로 추천**  
+  오름만의 알고리즘을 통해 사용자에게 최적의 등산로를 추천합니다.
+
+- **실시간 발자국 기록**  
+  사용자의 위치를 실시간으로 추적하여 등산 경로 및 기록을 제공합니다.
+
+- **앱 스토어 다운로드**  
+  모바일 환경에서도 쉽게 접근할 수 있도록 앱 스토어에서 다운로드할 수 있습니다.
+
+---
+
+## 인트로
+
+아래 이미지를 클릭해 오름의 서비스를 미리 경험해보세요!
+
+[![오름 데모 스크린샷](https://github.com/orm-team/orm-intro/blob/main/res/orm_trace.png?raw=true)](https://orm-team.github.io/orm-intro/)
